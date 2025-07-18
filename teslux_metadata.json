@@ -1,0 +1,16 @@
+{
+  "name": "Teslux",
+  "symbol": "TSL",
+  "description": "TESLUX is not just a token \u2014 it's a spark of the future. Inspired by the spirit of exploration and the relentless pursuit of innovation, TESLUX represents a new age of decentralized energy, technology, and cosmic ambition.\n\nBorn on Solana, engineered for the infinite.",
+  "image": "https://raw.githubusercontent.com/tesluxcoin/token-assets/main/teslux_logo.png",
+  "external_url": "https://www.tesluxcoin.com",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "8888HirHbmvA6j6pa18To8AuxziRZkSHih3FcUSaacCW",
+        "share": 100
+      }
+    ]
+  }
+}
