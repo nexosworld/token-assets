@@ -1,0 +1,41 @@
+{
+  "name": "NEXOS",
+  "symbol": "NEXOS",
+  "description": "NEXOS is the interstellar token of the future — forged to power peace, science, and civilization beyond borders. Not just a coin, but a commitment to a better cosmos.",
+  "image": "https://raw.githubusercontent.com/nexosworld/token-assets/main/nexos_logo.png", 
+  "external_url": "https://nexoscoin.com",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Purpose",
+      "value": "Interstellar Peace & Scientific Vision"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Solana Blockchain"
+    },
+    {
+      "trait_type": "Utility",
+      "value": "DAO Governance, Funding, Ecological Missions"
+    }
+  ],
+  "collection": {
+    "name": "NEXOS Protocol",
+    "family": "Future Tokens"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nexosworld/token-assets/main/nexos_logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "88881mxM3SqdSUtuv112NnpFHqvW7a8wAJRCDead133s",
+        "share": 100
+      }
+    ]
+  }
+}
