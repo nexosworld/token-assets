@@ -1,0 +1,8 @@
+{
+  "name": "Old Token (Deprecated)",
+  "symbol": "OLD",
+  "description": "This token is no longer actively developed or supported. Please migrate to our new project: [New Coin Name]. Visit [New Coin Official Website URL] for more information and details on token migration.",
+  "image": "ipfs://[NEW_IMAGE_HASH]/deprecated_logo.png",
+  "external_url": "https://www.newcoinproject.com"
+  // ...other metadata, if applicable
+}
